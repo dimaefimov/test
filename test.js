@@ -1,5 +1,10 @@
 var randomString = "This is a string";
 
-function best_Z(){
+
+function test_QQ(){
   return 'test Q';
 }
+
+/* Just comment.. 
+ * 
+ */
